@@ -1,39 +1,31 @@
 ---
-title: "Technical Issue / Problem" # MODIFY THIS TITLE
+title: "Real-time Data Replication to Snowflake using BryteFlow" # MODIFY THIS TITLE
 chapter: true
 weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Technical Issue / Problem <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
+# Snowflake Cloud Data Warehouse<!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
 
-## Submodule Two Heading <!-- MODIFY THIS SUBHEADING -->
-This paragraph block should be an introduction to the technical issue the solution is facing. An example of this can be seen at the bottom of this page. <br>
+## Why choose Snowflake ?<!-- MODIFY THIS SUBHEADING -->
+Snowflake the cloud data warehouse is based on SQL and is easy to use.  
+
+**Data can be queried with standard SQL query language**
+The Snowflake database was designed as a fully functioning SQL database. The Snowflake SQL database is a columnar-stored relational database that works with Excel, Tableau and other common software. Snowflake data can be queried with standard SQL query language. Data analysts are extremely familiar with SQL and can get started on analytics fast.  
+
+**Snowflake is a highly automated SaaS offering**
+Your Snowflake SQL database will not require expensive hardware or software to be installed or configured. The custom-built Snowflake big data infrastructure is fully managed and maintained by Snowflake.  
+**The Snowflake data warehouse is highly dynamic and scalable**
+You don’t need to worry about the size of your Snowflake database. The Snowflake data warehouse is highly dynamic and scalable. Snowflake’s big data architecture is shared and multi-cluster with each cluster accessing data and running independently without conflict. This is ideal for running large queries and operations simultaneously.  
+
+**Snowflake data is extremely secure**
+The Snowflake data warehouse automatically encrypts all data. Multi-factor authentication and granular access control is reassuring too. The Snowflake cloud data warehouse uses third party certification and validation to make sure security standards are met. Access control auditing is available for everything including data objects and actions within your Snowflake database.
 
 {{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
+ {{% /notice %}}
 
-### Next Section Heading <!-- MODIFY THIS HEADING -->
-This paragraph block can optionally be utilized to lead into the next section of the workshop.
+### BryteFlow for Snowflake <!-- MODIFY THIS HEADING -->
+Want go get data on Snowflake in real-time? 
+BryteFlow can help you deploy your real-time Snowflake Data Warehouse on AWS platform faster and without coding. 
 
 
-#### Example of content guidance
-
-# Deploy Without Worry
-
-## Deployments with Kubernetes?
-
-Kubernetes (k8s) is a container orchestration platform allowing organizations to scale their services and workloads quickly. If you are working with containers or microservices, k8s may be a great use case for you. Kubenetes deployments are container image deployments which target k8s-based environments.
-
-Amazon has released a managed k8s service called Elastic Kubernetes Service (EKS). Amazon EKS helps you provide highly-available and secure clusters and automates key tasks such as patching, node provisioning, and updates. While AWS provides the platform on which to run your containerize applications deploying them in a scalable, repeatable and reliable way is where Harness comes in.
-
-
-## How does Harness help with EKS deployments?
-
-Harness has first-class support for Kubernetes Resources. Harness can create scaffolding around Kubernetes Resources removing complexities around crafting your own resource definitions that are purpose made for deployments. Harness can offer granular deployment lifecycle support around different Kubernetes Resources supporting canary and blue/green deployments inside Kubernetes.
-
-## Why is Canary deployment tricky with EKS deployments?
-
-Canary Deployments are a progressive delivery pattern for rolling out releases to a subset of users. Canary Deployments can be complex because of the multiple phases and the judgment call of when to promote or rollback a canary. The Harness Platform has smart verification taking away the manual toil in verification and enables seamless Canary Deployments.
+ 

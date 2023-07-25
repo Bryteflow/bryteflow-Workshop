@@ -1,24 +1,33 @@
 ---
-title: "AWS Modernization Workshop Base Template" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
+title: "BryteFlow-AWS Modernize Workshop" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
 chapter: true
 weight: 1
 ---
 
-# AWS Modernization Workshop Base Template <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
-<br>
-![Partner Logo](/images/AWS_Logo.png)  <!-- ADD YOUR PARTNER LOGO HERE USING THE INSTRUCTIONS BELOW -->
-<br>
+# BryteFlow Modernization Workshop <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
 
-## Welcome
+![Bryteflow Logo](/images/BryteFlow_logo.png)
 
-**REMOVE:** By utilizing this template, you can create your workshops with little coding knowledge. These workshops use the Hugo Framework and the hugo-theme-learn submodules. By writing content using simple markdown code, Hugo creates the necessary HTML for you. Examples of code, files, and folders here can be modified, copied, pasted, and deleted as necessary. Block sections of instruction that should be removed will be explicitly marked with **REMOVE**. Other sections should be modified to reflect the workshop. For guidance on how to utilize the Hugo framework and markdown, please refer to the module titled "Hugo Framework And Markdown". That module can be removed once building the workshop is complete.
+## Welcome to BryteFlow Modernization Workshop
 
-This paragraph block can give the high level overview of the learning goals and use cases of what the workshop is trying to teach.
+**Building data warehouse on Snowflake**
 
-This paragraph block can be used to introduce the company and how the solution being taught addresses specific issues.
+The Snowflake cloud data warehouse enables data storage and analytics on a dynamic, highly scalable platform in the cloud.
+BryteFlow can help you deploy your real-time Snowflake  Data Warehouse with complete automation and without coding. BryteFlow uses enterprise log-based change data capture on legacy databases like SAP HANA, Oracle, SQL Server, PostgreSQL and MySQL, and from applications like SAP ECC, S/4 HANA, Salesforce etc. to move data from the sources to the Snowflake data warehouse in real-time.   
 
-**REMOVE:** Every introduction page should include the following warning label.
+•	It maintains a replica of the source structures in Snowflake and merges the initial and delta loads automatically with SCD type 2 history if required.  
 
+•	Data is ready to use – Get data to dashboard in minutes  
+
+•	Automated Data Reconciliation with counts and checksums on the Snowflake data warehouse  
+
+•	Ingest bulk data automatically to your Snowflake database with BryteFlow XL Ingest  
+
+•	Snowflake S3 integration from BryteFlow  
+
+•	Save on storage costs with Snowflake S3 integration
+ 
+ 
 {{% notice warning %}}
 The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
 {{% /notice %}}
