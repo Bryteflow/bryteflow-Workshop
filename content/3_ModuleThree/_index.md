@@ -6,27 +6,34 @@ weight: 3
 
 # Partner Setup <!-- MODIFY THIS HEADING -->
 
-## Module Three Heading <!-- MODIFY THIS SUBHEADING -->
+## Configure your own data replication pipeline <!-- MODIFY THIS SUBHEADING -->
 
-This paragraph block should be an introduction to the module about requirements the partner may need for their audience members. Examples include signing up for the partner platform or installing an agent.
+In this workshop we are going to showcase the SQL Server to Snowflake usecase of BryteFlow. The pipeline has to be setup to replicate data from a MS SQL Server Database to Snowflake.
 
-### Module Three Subheading <!-- MODIFY THIS SUBHEADING -->
-This paragraph block should be utilized to briefly explain the submodules. <br>
+Setting pipeline with BryteFlow in 3 easy steps:  
+1. Connect source database
+2. Connect destination database
+3. Select tables and start replicating
 
-#### Partner Setup Instructions <!-- MODIFY THIS SUBHEADING IF APPLICABLE -->
-A brief overview of submodule one.
+#### Connect source database connector<!-- MODIFY THIS SUBHEADING IF APPLICABLE -->
+BryteFlow connects to any RDBMS sources using JDBC. 
 
-{{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
+Connect the SQL Server database as mentioned below:
 
-**REMOVE:** Every introduction page should include the following warning label.
+1. In the Database Type select “Microsoft SQL Server Change Tracking” from the drop-down list.
+2. In the Database Host field please enter the IP address or hostname of the database server
+3. In the Database Port field please enter the port number on which the database server is listening on. The default port for MS SQL Server is 1433
+4. In the Database Name field please enter the name of your database e.g. BryteMSSQL
+5. Enter a valid MS SQL Server database user Id that will be used with BryteFlow Ingest. If a Windows user is required, please contact BryteFlow support info@bryteflow.com to understand how to configure this
+6. Enter Password; then confirm it by re-entering in Confirm Password  
+    - Please note, passwords are encrypted within BryteFlow Ingest
+7. JDBC options are optional, can be used in order to extend the JDBC URL used to access the databases.
+8. Click on the ‘Test Connection’ button to test connectivity
+9. Click on the ‘Apply’ button to confirm and save the details
 
 {{% notice warning %}}
 The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
 {{% /notice %}}
 
-### Next Section Heading <!-- MODIFY THIS HEADING -->
-This paragraph block can optionally be utilized to lead into the next section of the workshop.
+### Configure Destination database connector <!-- MODIFY THIS HEADING -->
+Connect to Snowflake Data Warehouse as a destination connector for your pipeline. 
