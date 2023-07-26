@@ -1,7 +1,7 @@
 ---
 title: "Connect destination database connector" # MODIFY THIS TITLE
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # Connect destinaton database connector<!-- MODIFY THIS HEADING -->
@@ -11,7 +11,7 @@ BryteFlow connects to Snowflake using JDBC.
 
 Connect to Snowflake data warehouse as mentioned below:
 
-1. GO to Destination Database
+1. Go to Destination Database
 2. Enter ‘Database Type’ as ‘Load to Snowflake direct’
 3. Database host is the Snowflake account URL For eg: abc123.ap-southeast-2.snowflakecomputing.com
 4. Provide Snowflake Account name under ‘Account name’

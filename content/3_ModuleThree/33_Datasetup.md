@@ -1,7 +1,7 @@
 ---
 title: "Choose data to be replicated " # MODIFY THIS TITLE
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # Choose data to be replicated <!-- MODIFY THIS HEADING -->
@@ -13,7 +13,7 @@ BryteFlow list all tables from SQL Server, from accross databases and schema in 
 Please make sure to perform the source database prerequisites for the table of interest.
 For prerequisite steps please refer to User guide : https://docs.bryteflow.com/bryteflow-setup-guide#using-sql-server-change-tracking
 
-Once done select the table for transferring to destination database on Amazon Redshift and/or Amazon S3 bucket perform the following steps.
+Once done select the table for transferring to destination database, perform the following steps.
 
 1. In the 'Data' tab expand the Database.
 2. Browse to the table you want to be synced with Amazon Redshift or Amazon S3.
