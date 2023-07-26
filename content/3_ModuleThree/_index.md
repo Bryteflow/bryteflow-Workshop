@@ -15,12 +15,10 @@ Setting pipeline with BryteFlow in 3 easy steps:
 2. Connect destination database
 3. Select tables and start replicating
 
-#### Connect source database connector<!-- MODIFY THIS SUBHEADING IF APPLICABLE -->
+### Connect source database connector <!-- MODIFY THIS HEADING -->
 Connect to MS SQL Server DB in quick and easy steps.
+
 
 {{% notice warning %}}
 The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
 {{% /notice %}}
-
-### Configure Destination database connector <!-- MODIFY THIS HEADING -->
-Connect to Snowflake Data Warehouse as a destination connector for your pipeline. 
