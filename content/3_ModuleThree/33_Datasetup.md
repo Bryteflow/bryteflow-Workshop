@@ -7,7 +7,7 @@ weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 # Choose data to be replicated <!-- MODIFY THIS HEADING -->
 Once connected to the source database, select all objects or objects of your choice to be added to the replication pipeline.
 
-##Select tables for replication <!-- MODIFY THIS SUBHEADING -->
+## Select tables for replication <!-- MODIFY THIS SUBHEADING -->
 BryteFlow list all tables from SQL Server, from accross databases and schema in the data catalogue for users to select tables and start replication.
 
 Please make sure to perform the source database prerequisites for the table of interest.
