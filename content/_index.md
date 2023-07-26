@@ -21,11 +21,18 @@ BryteFlow can help you deploy your real-time Snowflake  Data Warehouse with comp
 
 •	Automated Data Reconciliation with counts and checksums on the Snowflake data warehouse  
 
-•	Ingest bulk data automatically to your Snowflake database with BryteFlow XL Ingest  
+•	Ingest Terrabytes of data automatically to your Snowflake database with BryteFlow XL Ingest. Also, used for migration use cases such as Teradata to Snowflake.
+
+•   Multi-threaded log based change data capture with high throughput. Can very easily adapt to burst data flows.
+
+•   Seamless integration with AWS services for security monitoring and alerting.
 
 •	Snowflake S3 integration from BryteFlow  
 
 •	Save on storage costs with Snowflake S3 integration
+•	BryteFlow APIs are available for integration with any external services.
+•	It is installed in customer's environment with no outbound access, adhering to organizations security policy and making sure data remains in customer environment.
+
  
  
 {{% notice warning %}}
