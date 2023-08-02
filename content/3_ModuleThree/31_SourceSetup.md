@@ -22,6 +22,8 @@ Connect the SQL Server database as mentioned below:
 8. Click on the ‘Test Connection’ button to test connectivity
 9. Click on the ‘Apply’ button to confirm and save the details
 
+
+![Source database connection](/images/src1.png)
  
 ### Configure Destination database connector <!-- MODIFY THIS HEADING -->
 Connect to Snowflake Data Warehouse as a destination connector for your pipeline. 

@@ -18,3 +18,4 @@ To configure extracts to run at a specific time perform the following steps.
 4. Extraction can also be scheduled on specific days of the week at a fixed time by checking the checkboxes next to the days and selecting hours and minutes in the drop-down.
 5. Click on the ‘Apply’ button to save the schedule.
  
+![Schedule tab](/images/sch.PNG)

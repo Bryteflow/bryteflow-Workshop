@@ -15,4 +15,4 @@ Here is a preview of what we will be setting up:
     5. Configure Workshop Specific Requirements
   
   
-![BryteFlow Workshop Architecture Diagram](/images/Snowflake_data_integration.jpg)
+![BryteFlow Workshop Architecture Diagram](/images/Snowflake_data_integration.png)

@@ -23,6 +23,9 @@ Connect to Snowflake data warehouse as mentioned below:
 10. Click on the ‘Test Connection’ button to test the connection details
 11. Click on the ‘Apply’ button to confirm and save the details
 
+
+![Destination database connection](/images/SFLKs3.png)
+ 
  
 ### Choose data to be replicated <!-- MODIFY THIS HEADING -->
 Once connected to the source database, select all objects or objects of your choice to be added to the replication pipeline.

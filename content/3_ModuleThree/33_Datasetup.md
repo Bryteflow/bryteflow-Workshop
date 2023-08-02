@@ -25,4 +25,7 @@ Once done select the table for transferring to destination database, perform the
 8. Navigate to the Schedule tab
 9. Click on the ‘Full Extract’ button to initiate the Initial Extract and Load process
 
+![Data tab](/images/data.png)
+
+
 This will initiate the very first initial data sync from SQL Server to Snowflake and thereafter continue with the incremental data replication as per the schedule.
