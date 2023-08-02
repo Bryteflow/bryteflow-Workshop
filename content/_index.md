@@ -1,14 +1,14 @@
 ---
-title: "BryteFlow-AWS Modernize Workshop" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
+title: "Move to Managed Data" # MODIFY THIS TO BE THE TITLE OF YOUR WORKSHOP
 chapter: true
 weight: 1
 ---
 
-# BryteFlow Modernization Workshop <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
+# Move to Managed Data <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
 
 ![Bryteflow Logo](/images/BryteFlow_logo.png)
 
-## Welcome to BryteFlow Modernization Workshop
+## Move to Managed Data with BryteFlow
 
 **Building data warehouse on Snowflake**
 
