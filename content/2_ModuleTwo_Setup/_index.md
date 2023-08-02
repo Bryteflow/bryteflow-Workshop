@@ -10,14 +10,9 @@ Welcome to the Self Guided Setup section! This workshop requires an AWS account 
 
 Here is a preview of what we will be setting up:  
     1. Creating an AWS account with proper permissions  
-        2. Create a workspace  
-        3. Creating an IAM role for your workspace  
-        4. Attaching an IAM Role  
-        5. Configure Workshop Specific Requirements
- 
-
-{{% notice warning %}}
-The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
-{{% /notice %}}
-
- 
+    3. Creating an IAM role for your user account  
+    4. Attaching an IAM Role  to the user
+    5. Configure Workshop Specific Requirements
+  
+  
+![BryteFlow Workshop Architecture Diagram](/images/Snowflake_data_integration.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "Hugo Framework and Markdown"
+title: "Workshop Cleanup"
 chapter: true
 weight: 4
 ---

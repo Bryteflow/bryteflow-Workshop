@@ -19,12 +19,6 @@ weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 - Data Reconciliation, High Availability, resiliency and scaling with terabytes of data is built into the software.
 
 We will launch BryteFlow Standard Edition from AWS Marketplace from the AWS account. There are a few steps to complete to set this up:  
-  
-  - Launch BryteFlow from AWS Marketplace
-  - Create an IAM role for your workspace
-  - Attach the IAM role to your workspace
-  - Configure workshop specific requirements
-
 
  
 ### Launch BryteFlow Standard Edition <!-- MODIFY THIS HEADING -->
@@ -41,6 +35,8 @@ Steps to launch BryteFlow Ingest from AWS Marketplace: Standard Edition
 2. Go to the product URL https://aws.amazon.com/marketplace/pp/B01MRLEJTK
 
 3. Click ‘Continue to Subscribe’ 
+
+![BryteFlow Workshop Architecture Diagram](/images/Ami1.png)
 
 4. Click ‘Continue to Configuration’. This brings up the default ‘Fulfillment Option’ with the latest software version.
 
@@ -62,3 +58,11 @@ Steps to launch BryteFlow Ingest from AWS Marketplace: Standard Edition
 
 
 Info: This will take about 1-2 minutes to provision
+
+This will bring up a page requesting either a ‘New Instance’ or an ‘Existing Instance’
+Click on the ‘New Instance’ button and do the setup for your environment (refer to the section regarding Configuration Of BryteFlow Ingest in this document for further details)
+‘Existing Instance’ should only be clicked when recovering an instance of BryteFlow Ingest.
+
+
+![launch application](/images/NewInstanceExistingInstance.png)
+

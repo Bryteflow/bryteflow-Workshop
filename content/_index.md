@@ -33,8 +33,3 @@ BryteFlow can help you deploy your real-time Snowflake  Data Warehouse with comp
 •	BryteFlow APIs are available for integration with any external services.
 •	It is installed in customer's environment with no outbound access, adhering to organizations security policy and making sure data remains in customer environment.
 
- 
- 
-{{% notice warning %}}
-The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
-{{% /notice %}}

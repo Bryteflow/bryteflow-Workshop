@@ -27,12 +27,4 @@ The workshop is divided into the sections listed below. Plan on for 60-90 minute
 - Module 4: Validate data on Snowflake (10 minutes)
 
 
-{{% notice info %}}
-<p style='text-align: left;'>
 
-</p>
-{{% /notice %}}
-
-{{% notice warning %}}
-The examples and sample code provided in this workshop are intended to be consumed as instructional content. These will help you understand how various AWS services can be architected to build a solution while demonstrating best practices along the way. These examples are not intended for use in production environments.
-{{% /notice %}}
