@@ -1,7 +1,7 @@
 ---
 title: "Choose data to be replicated " # MODIFY THIS TITLE
 chapter: true
-weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 4 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # Choose data to be replicated <!-- MODIFY THIS HEADING -->

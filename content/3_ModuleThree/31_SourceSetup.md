@@ -1,7 +1,7 @@
 ---
 title: "Connect source database connector" # MODIFY THIS TITLE
 chapter: true
-weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # Connect source database connector<!-- MODIFY THIS HEADING -->

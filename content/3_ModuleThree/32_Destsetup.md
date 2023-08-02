@@ -1,7 +1,7 @@
 ---
 title: "Connect destination database connector" # MODIFY THIS TITLE
 chapter: true
-weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # Connect destinaton database connector<!-- MODIFY THIS HEADING -->
