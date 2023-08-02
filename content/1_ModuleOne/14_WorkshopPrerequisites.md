@@ -17,7 +17,6 @@ As part of this scenario, you will need the following items to be able to build 
 Please follow the below steps for the Free trial:
 
 1. Subscribe on AWS Marketplace for 7 days free trial
-{{% notice %}}
     1. Log in your AWS account: AWS Console  
     2. Go to AWS Marketplace Subscriptions - BryteFlow Ingest- Standard Edition, then click “Continue to Subscribe”
     3. Click on “Subscribe”  
