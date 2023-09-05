@@ -1,7 +1,7 @@
 ---
 title: "Data Replication Schedule " # MODIFY THIS TITLE
 chapter: true
-weight: 5# MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
+weight: 5 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
 # **Scheduling** <!-- MODIFY THIS HEADING -->
