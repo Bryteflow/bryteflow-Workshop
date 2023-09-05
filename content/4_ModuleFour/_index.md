@@ -4,7 +4,7 @@ chapter: true
 weight: 4
 ---
 
-# Cleaning up of the workshop
+# **Cleaning up of the workshop**
 
 The worskshop being launched in your AWS account via AWS Marketplace.
 
@@ -24,4 +24,28 @@ The worskshop being launched in your AWS account via AWS Marketplace.
 
  If you are interested to know more or for any kind of support please email to : support@bryteflow.com or info@bryteflow.com
 
- Thanks for your time.
+ Thanks for your time. Hope you enjoyed the workshop !
+
+ ### Reference Links:
+
+Website: https://bryteflow.com/
+
+How BryteFlow Works: https://bryteflow.com/how-bryteflow-works/ 
+
+Contact: https://bryteflow.com/contact/ 
+
+
+[Building a Snowflake Data Lake or Data Warehouse](https://bryteflow.com/snowflake-data-lake/)
+
+[Building an Amazon S3 Data Lake](https://bryteflow.com/amazon-s3-data-lake/)
+
+[Data Integration on Amazon Redshift](https://bryteflow.com/data-integration-on-amazon-redshift/ )
+
+[Data Integration on Databricks](https://bryteflow.com/data-integration-on-databricks/ )
+
+[Moving Data to Teradata](https://bryteflow.com/data-integration-teradata-database/ )
+
+[Data Integration on PostgreSQL](https://bryteflow.com/bryteflow-for-postgresql/ )
+
+[Unlocking and Extracting SAP Data](https://bryteflow.com/bryteflow-sap-data-lake-builder/ )
+

@@ -4,7 +4,7 @@ chapter: true
 weight: 5 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Getting Started with BryteFlow<!-- MODIFY THIS HEADING IF APPLICABLE -->
+# **Getting Started with BryteFlow**<!-- MODIFY THIS HEADING IF APPLICABLE -->
 
 ## DIY data replication pipeline<!-- MODIFY THIS SUBHEADING -->
 

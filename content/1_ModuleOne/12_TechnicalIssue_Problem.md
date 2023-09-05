@@ -4,7 +4,7 @@ chapter: true
 weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Snowflake Cloud Data Warehouse<!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
+# **Snowflake Cloud Data Warehouse**<!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
 
 ## Why choose Snowflake ?<!-- MODIFY THIS SUBHEADING -->
 Snowflake the cloud data warehouse is based on SQL and is easy to use.  

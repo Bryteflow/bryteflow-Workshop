@@ -4,7 +4,7 @@ chapter: true
 weight: 1 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Data Integration to Snowflake <!-- MODIFY THIS HEADING IF APPLICABLE -->
+# **Data Integration to Snowflake** <!-- MODIFY THIS HEADING IF APPLICABLE -->
 
 ## Snowflake Data Warehouse and BryteFlow<!-- MODIFY THIS SUBHEADING -->
 

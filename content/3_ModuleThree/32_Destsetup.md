@@ -4,7 +4,7 @@ chapter: true
 weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
-# Connect destinaton database connector<!-- MODIFY THIS HEADING -->
+# **Connect destinaton database connector**<!-- MODIFY THIS HEADING -->
 
 ## Connecting to Snowflake Data Warehouse <!-- MODIFY THIS SUBHEADING -->
 BryteFlow connects to Snowflake using JDBC. 

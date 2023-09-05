@@ -4,7 +4,7 @@ chapter: true
 weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# BryteFlow - One stop CDC solution <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
+# **BryteFlow - One stop CDC solution** <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
 
 ## BryteFlow Ingest- Replicate data in real-time <!-- MODIFY THIS SUBHEADING -->
 BryteFlow can help you deploy your real-time Snowflake  Data Warehouse on AWS platform fast and without coding.  

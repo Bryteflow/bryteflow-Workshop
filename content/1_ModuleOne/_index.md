@@ -4,7 +4,7 @@ chapter: true
 weight: 1
 ---
 
-# Introduction
+# **Introduction**
 
 In this workshop we will look at a simple data replication from Microsoft SQL Server Database to Snowflake Data warehouse. Participants will get hands-on experience in Launching, configuring, and transferring data using BryteFlow Ingest.
 

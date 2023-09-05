@@ -4,7 +4,7 @@ chapter: true
 weight: 5# MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
-# Scheduling <!-- MODIFY THIS HEADING -->
+# **Scheduling** <!-- MODIFY THIS HEADING -->
 After the first initial sync is done, BryteFlow Ingest will continue with the incremental data replication at the specified schedule.
 
 ## Assign Data Replication Schedule<!-- MODIFY THIS SUBHEADING -->

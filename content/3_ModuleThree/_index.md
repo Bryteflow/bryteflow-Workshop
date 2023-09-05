@@ -4,7 +4,7 @@ chapter: true
 weight: 3
 ---
 
-# Data Replication Pipeline Setup <!-- MODIFY THIS HEADING -->
+# **Data Replication Pipeline Setup** <!-- MODIFY THIS HEADING -->
 
 ## Configure your own data replication pipeline <!-- MODIFY THIS SUBHEADING -->
 

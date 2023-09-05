@@ -8,7 +8,7 @@ weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 <!-- COPY AND PASTE THIS SUBMODULE FILE, RENAME, AND CHANGE THE CONTENTS AS NECESSARY -->
 
 
-# Set Up The Workspace <!-- MODIFY THIS SUBHEADING -->
+# **Set Up The Workspace** <!-- MODIFY THIS SUBHEADING -->
 
 ## Set Up Your Workspace <!-- MODIFY THIS SUBHEADING -->
  BryteFlow allows real-time Data Replication & Integration for Amazon S3, Amazon Redshift and Snowflake Data Warehouse.  
@@ -20,13 +20,13 @@ weight: 2 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 
 We will launch BryteFlow Standard Edition from AWS Marketplace from the AWS account. There are a few steps to complete to set this up:  
 
- 
-### Launch BryteFlow Standard Edition <!-- MODIFY THIS HEADING -->
+
+## Launch BryteFlow Standard Edition <!-- MODIFY THIS HEADING -->
 
 BryteFlow is the replication Software for Easy Enterprise Data Integration
 It is a no-code data replication software that replicates your data using CDC from transactional sources like SAP, Oracle, SQL Server, MySQL and PostgreSQL to popular platforms like AWS, Azure, SQL Server, BigQuery, PostgreSQL,  Snowflake, Teradata, Databricks and Kafka in real-time, providing ready to use data on the destination. Our data replication software is automated, GUI driven, self-service and offers out-of- the-box support for bulk data.
 
-### Launch BryteFlow Ingest from AWS Marketplace : Standard Edition <!-- MODIFY THIS SUBHEADING -->
+## Launch BryteFlow Ingest from AWS Marketplace : Standard Edition <!-- MODIFY THIS SUBHEADING -->
 
 Steps to launch BryteFlow Ingest from AWS Marketplace: Standard Edition 
 
@@ -36,7 +36,7 @@ Steps to launch BryteFlow Ingest from AWS Marketplace: Standard Edition
 
 3. Click ‘Continue to Subscribe’ 
 
-![BryteFlow Workshop Architecture Diagram](/images/Ami1.png)
+![BryteFlow Workshop Architecture Diagram](/images/bryteflow_stdami.JPG)
 
 4. Click ‘Continue to Configuration’. This brings up the default ‘Fulfillment Option’ with the latest software version.
 

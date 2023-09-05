@@ -4,7 +4,7 @@ chapter: true
 weight: 1
 ---
 
-# Move to Managed Data <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
+# **Move to Managed Data** <!-- CHANGE THIS TO BE THE TITLE OF YOUR WORKSHOP -->
 
 ![Bryteflow Logo](/images/BryteFlow_logo.png)
 
@@ -30,6 +30,8 @@ BryteFlow can help you deploy your real-time Snowflake  Data Warehouse with comp
 •	Snowflake S3 integration from BryteFlow  
 
 •	Save on storage costs with Snowflake S3 integration
+
 •	BryteFlow APIs are available for integration with any external services.
+
 •	It is installed in customer's environment with no outbound access, adhering to organizations security policy and making sure data remains in customer environment.
 

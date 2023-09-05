@@ -4,14 +4,14 @@ chapter: true
 weight: 4 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES
 ---
 
-# Choose data to be replicated <!-- MODIFY THIS HEADING -->
+# **Choose data to be replicated** <!-- MODIFY THIS HEADING -->
 Once connected to the source database, select all objects or objects of your choice to be added to the replication pipeline.
 
 ## Select tables for replication <!-- MODIFY THIS SUBHEADING -->
 BryteFlow list all tables from SQL Server, from accross databases and schema in the data catalogue for users to select tables and start replication.
 
 Please make sure to perform the source database prerequisites for the table of interest.
-For prerequisite steps please refer to User guide : https://docs.bryteflow.com/bryteflow-setup-guide#using-sql-server-change-tracking
+For prerequisite steps please refer to the [BryteFlow User guide](https://docs.bryteflow.com/bryteflow-setup-guide#using-sql-server-change-tracking) : 
 
 Once done select the table for transferring to destination database, perform the following steps.
 
